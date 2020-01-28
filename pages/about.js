@@ -1,5 +1,4 @@
-import Layout from "../components/navbar.js";
-
+import Layout from "../components/layout";
 const About = () => (
   <Layout>
     <div>
