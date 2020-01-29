@@ -3,6 +3,10 @@
 This is a Nextjs application to view Bitcoin Prices.
 We are using ISOMORPHIC-unfetch to fetch the data from CoinDesk API (https://www.coindesk.com/coindesk-api)
 
+![App](captured.gif)
+
+Move along.
+
 ### Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
