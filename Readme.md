@@ -45,7 +45,7 @@ Index.getInitialProps= async function(){
 ```
 
 ### Built With
-Bootswatch - The web framework used
+Bootswatch - The web framework used for theme
 CoinDesk API - Used to get updated prices
 
 ### Authors
@@ -55,4 +55,4 @@ Anchit Aggarwal
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
 ### Acknowledgments
-Travery Media
+Traversy Media
