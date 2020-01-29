@@ -10,7 +10,7 @@ class Prices extends React.Component {
       list = (
         <li className="list-group-item">
           Bitcoin rate for {this.props.bpi.USD.description} :   
-          <span class="badge badge-primary">{this.props.bpi.USD.code}</span>
+          <span className ="badge badge-primary">{this.props.bpi.USD.code}</span>
           <strong>{this.props.bpi.USD.rate}</strong>
         </li>
       );
@@ -18,7 +18,7 @@ class Prices extends React.Component {
       list = (
         <li className="list-group-item">
           Bitcoin rate for {this.props.bpi.GBP.description} :   
-          <span class="badge badge-primary">{this.props.bpi.GBP.code}</span>
+          <span className ="badge badge-primary">{this.props.bpi.GBP.code}</span>
           <strong>{this.props.bpi.GBP.rate}</strong>
         </li>
       );
@@ -26,7 +26,7 @@ class Prices extends React.Component {
       list = (
         <li className="list-group-item">
           Bitcoin rate for {this.props.bpi.EUR.description} :   
-          <span class="badge badge-primary">{this.props.bpi.EUR.code}</span>
+          <span className ="badge badge-primary">{this.props.bpi.EUR.code}</span>
           <strong>{this.props.bpi.EUR.rate}</strong>
         </li>
       );
